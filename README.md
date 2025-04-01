@@ -23,7 +23,7 @@
   <p align="center">
     This experiment explores consistency in AI image generation through the use of prompt narrowing, prompt flooding, and prompt referencing by a four phase process.
     <br />
-    Fall of the Mourning Star
+    Prompt Referencing Application
     <br />
     <br />
     <br />
@@ -35,7 +35,7 @@
 
 [![4-comma][images-fig1]](https://example.com)
 
-Figure 1. Fall of the Mourning Star, Is a Yonkoma representing the birth and death of a star through the narrative of a poem combined visually with AI Generated Images sourced from OpenAI's DALL-E 3.
+Figure 1. The Final result of the application of all four phases.
 
 <!-- Abstract -->
 ## Abstract
